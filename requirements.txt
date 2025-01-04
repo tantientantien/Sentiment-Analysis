@@ -1,0 +1,8 @@
+torch
+scikit-learn
+pandas
+nltk
+matplotlib
+seaborn
+numpy
+contractions
